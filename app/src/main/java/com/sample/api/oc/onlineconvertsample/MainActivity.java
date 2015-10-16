@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
                 new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
-                        outputConversionsList.append("Audio Conversions");
+                        outputConversionsList.append("Audio Conversions\n");
                         for (Conversion conversion : conversions) {
                             outputConversionsList.append("************************\n");
                             outputConversionsList.append("Target: " + conversion.getTarget().toString() + "\n");
