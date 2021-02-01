@@ -1,3 +1,5 @@
+# This repository is deprecated and archived!
+
 # Android APP - Online Convert Sample
 
 This is a pretty simple sample that give you a list from all the possibles AUDIO conversions.
